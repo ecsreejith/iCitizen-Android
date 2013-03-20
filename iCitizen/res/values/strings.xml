@@ -4,5 +4,9 @@
     <string name="app_name">iCitizen</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="find">Finder</string>
+    <string name="profile_title">Profile</string>
+    <string name="reminder_title">RemindMe</string>
+    <string name="notification_title">Notifs</string>
 
 </resources>
